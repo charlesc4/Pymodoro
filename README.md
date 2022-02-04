@@ -1,2 +1,2 @@
 # Pymodoro
-TÉCNICA DE CONCENTRAÇÃO Pomodoro in python
+Técnica de concentração Pomodoro in python
